@@ -1,6 +1,5 @@
 # Mini-Project--Application-of-NN
 
-
 (Expected the following details in the report )
 ## Project Title: 
 Deep Neural Network for Malaria Infected Cell Recognition
@@ -175,7 +174,6 @@ confusion_matrix(test_image_gen.classes,predictions)
 ## Confusion Matrix
 ![image](https://user-images.githubusercontent.com/105230321/205449806-86115de9-9b54-438b-b9ea-d45253fc919e.png)
 ## Sample Data Prediction
-![Uploading image.png…]()
 
 ## Advantage :
 Helps in recognition the malaria cell

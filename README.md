@@ -176,6 +176,6 @@ confusion_matrix(test_image_gen.classes,predictions)
 ## Sample Data Prediction
 
 ## Advantage :
-Helps in recognition the malaria cell
+Helps in recognizing the malaria cell
 ## Result:
 Thus, successfully implemented convolutional neural network model for Malaria Infected Cell Regonition.

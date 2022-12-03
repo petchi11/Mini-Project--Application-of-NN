@@ -174,6 +174,7 @@ confusion_matrix(test_image_gen.classes,predictions)
 ## Confusion Matrix
 ![image](https://user-images.githubusercontent.com/105230321/205449806-86115de9-9b54-438b-b9ea-d45253fc919e.png)
 ## Sample Data Prediction
+![image](https://user-images.githubusercontent.com/105230321/205452594-ca6d1c2f-74aa-42d3-95c5-7c6faff330e4.png)
 
 ## Advantage :
 Helps in recognizing the malaria cell
